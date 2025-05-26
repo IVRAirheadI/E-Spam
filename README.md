@@ -1,0 +1,1 @@
+Make sure to install all the required packages (imports) at the top of the script. This script constantly spams any toggle key (preset for e) and is great for games that require alot of clicking keys.
