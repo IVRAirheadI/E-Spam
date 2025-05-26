@@ -33,7 +33,7 @@ ctk.set_appearance_mode("System")  # Mode: "System" (default), "Dark", "Light"
 ctk.set_default_color_theme("blue")  # Theme: "blue" (default), "green", "dark-blue"
 
 app = ctk.CTk()
-app.title("E-Key Spammer")
+app.title("Key Spammer")
 app.geometry("300x150")
 
 # Toggle button
